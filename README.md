@@ -68,4 +68,3 @@ ReactFoodOrderingApp/
 - **Meals Data:** Add or edit meals in `backend/data/available-meals.json`.
 
 
-**Made with ❤️ and React.**
